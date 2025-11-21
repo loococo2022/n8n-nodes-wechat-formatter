@@ -6,14 +6,14 @@
         "n8n-community-node-package"
     ],
     "license": "MIT",
-    "homepage": "https://github.com/YOUR_USERNAME/n8n-nodes-wechat-formatter",
+    "homepage": "https://github.com/loococo2022/n8n-nodes-wechat-formatter",
     "author": {
         "name": "Your Name",
         "email": "your.email@example.com"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/YOUR_USERNAME/n8n-nodes-wechat-formatter.git"
+        "url": "git+https://github.com/loococo2022/n8n-nodes-wechat-formatter.git"
     },
     "main": "index.js",
     "scripts": {
