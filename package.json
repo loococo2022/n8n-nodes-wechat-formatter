@@ -1,6 +1,6 @@
 {
     "name": "n8n-nodes-wechat-formatter",
-    "version": "0.1.3",
+    "version": "0.1.4",
     "description": "n8n node for converting Markdown to WeChat Official Account format",
     "keywords": [
         "n8n-community-node-package"

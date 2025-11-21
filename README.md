@@ -1,6 +1,6 @@
 # n8n-nodes-wechat-formatter
 
-This is an n8n community node that converts Markdown content into WeChat Official Account (微信公众号) compatible HTML with inline styles. It includes 10 built-in themes.
+This is an n8n community node that converts Markdown content into WeChat Official Account  compatible HTML with inline styles. It includes 10 built-in themes.
 
 [n8n](https://n8n.io/) is a fair-code licensed workflow automation platform.
 
@@ -18,7 +18,7 @@ This node takes Markdown text as input and outputs an HTML string with inline CS
 
 ### Inputs
 *   **Markdown Content**: The text you want to format.
-*   **Theme**: Select one of the 10 available themes.
+*   **Theme**: Select one of the 11 available themes.
 
 ### Themes
 1.  **Default (Blue Tech)**
@@ -27,6 +27,11 @@ This node takes Markdown text as input and outputs an HTML string with inline CS
 4.  **Warm Paper**
 5.  **Elegant Purple**
 6.  **Artist Black**
+7.  **minimal_mono**
+8.  **cyber_neon**
+9.  **retro_orange**
+10.  **cherry_blossom**
+11.  **royal_gold**
 
 ## Compatibility
 *   n8n v0.1.0+
